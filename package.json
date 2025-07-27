@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@microsoft/microsoft-graph-client": "^3.0.7",
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0",
+    "googleapis": "^154.0.0",
+    "isomorphic-fetch": "^3.0.0"
+  }
+}
